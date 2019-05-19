@@ -1,0 +1,17 @@
+ img {
+	
+	width: 30%;
+	float: left;
+	margin:1.66%;
+}
+
+p{
+	margin:1.66%;
+	font-family: 'Kaushan Script', cursive;
+	border-bottom:#f1f1f1 solid 2px;
+	text-transform: uppercase;
+	padding-bottom: 20px; 
+	font-size: 23px;
+	font-weight: 800;
+	width:30%;
+}
